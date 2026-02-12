@@ -705,7 +705,6 @@ header {
   padding: var(--space-xl);
   box-shadow: var(--shadow-md);
   transition: all var(--transition-base) var(--ease-in-out);
-  height: 100%;
 }
 
 .card.h-100 {
